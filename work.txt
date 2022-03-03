@@ -1,0 +1,15 @@
+content 1
+
+
+dd
+:q!
+[A[A[A[A[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C git status
+
+
+[A[A[A[C[C[C[C[C[C[C[C$
+
+
+[A[A[A[C[C[C[D[D[
+
+
+clear
